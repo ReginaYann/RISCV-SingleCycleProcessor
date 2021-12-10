@@ -1,0 +1,36 @@
+Vivado Simulator 2018.2
+Copyright 1986-1999, 2001-2018 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2018.2/bin/unwrapped/win64.o/xelab.exe -wto 6d2d37f61d7b47c9885a332d58510249 --incr --debug typical --relax --mt 2 -L dist_mem_gen_v8_0_12 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip -L xpm --snapshot singleriscv_fpga_behav xil_defaultlib.singleriscv_fpga xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+WARNING: [VRFC 10-278] actual bit length 8 differs from formal bit length 6 for port a [C:/Users/Yan Lijun/Desktop/lab6/singleriscv_fpga.v:60]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.BCD2binary
+Compiling module unisims_ver.BUFG
+Compiling module xil_defaultlib.maindec
+Compiling module xil_defaultlib.aludec
+Compiling module xil_defaultlib.controller
+Compiling module xil_defaultlib.flopr(WIDTH=32)
+Compiling module xil_defaultlib.adder
+Compiling module xil_defaultlib.sl1
+Compiling module xil_defaultlib.mux2(WIDTH=32)
+Compiling module xil_defaultlib.regfile
+Compiling module xil_defaultlib.signext12
+Compiling module xil_defaultlib.signext20
+Compiling module xil_defaultlib.adder4
+Compiling module xil_defaultlib.adder16
+Compiling module xil_defaultlib.adder32
+Compiling module xil_defaultlib.alu32
+Compiling module xil_defaultlib.datapath
+Compiling module xil_defaultlib.singleriscv
+Compiling module dist_mem_gen_v8_0_12.dist_mem_gen_v8_0_12(C_FAMILY="a...
+Compiling module xil_defaultlib.imem_fpga
+Compiling module xil_defaultlib.dmem_io
+Compiling module xil_defaultlib.binary2BCD
+Compiling module xil_defaultlib.display_7seg_x4
+Compiling module xil_defaultlib.singleriscv_fpga
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot singleriscv_fpga_behav

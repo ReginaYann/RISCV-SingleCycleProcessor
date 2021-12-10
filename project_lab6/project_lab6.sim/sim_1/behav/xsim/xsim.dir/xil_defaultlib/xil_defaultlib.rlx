@@ -1,0 +1,14 @@
+0.6
+2018.2
+Jun 14 2018
+20:41:02
+C:/Users/Yan Lijun/Desktop/lab6/alupart.v,1609123933,verilog,,C:/Users/Yan Lijun/Desktop/lab6/bcd2bin.v,,adder16;adder32;adder4;alu32,,,,,,,,
+C:/Users/Yan Lijun/Desktop/lab6/bcd2bin.v,1609136623,verilog,,C:/Users/Yan Lijun/Desktop/lab6/bin2bcd.v,,BCD2binary,,,,,,,,
+C:/Users/Yan Lijun/Desktop/lab6/bin2bcd.v,1584429420,verilog,,C:/Users/Yan Lijun/Desktop/lab6/display_7seg.v,,binary2BCD,,,,,,,,
+C:/Users/Yan Lijun/Desktop/lab6/display_7seg.v,1586992654,verilog,,C:/Users/Yan Lijun/Desktop/lab6/dmem_io.v,,display_7seg_x4,,,,,,,,
+C:/Users/Yan Lijun/Desktop/lab6/dmem_io.v,1608736563,verilog,,C:/Users/Yan Lijun/Desktop/lab6/riscvparts.v,,dmem_io,,,,,,,,
+C:/Users/Yan Lijun/Desktop/lab6/project_lab6/project_lab6.sim/sim_1/behav/xsim/glbl.v,1529022455,verilog,,,,glbl,,,,,,,,
+C:/Users/Yan Lijun/Desktop/lab6/project_lab6/project_lab6.srcs/sources_1/ip/imem_fpga/sim/imem_fpga.v,1609207120,verilog,,C:/Users/Yan Lijun/Desktop/lab6/alupart.v,,imem_fpga,,,,,,,,
+C:/Users/Yan Lijun/Desktop/lab6/riscvparts.v,1608814351,verilog,,C:/Users/Yan Lijun/Desktop/lab6/singleriscv.v,,adder;flopr;mux2;regfile;signext12;signext20;sl1,,,,,,,,
+C:/Users/Yan Lijun/Desktop/lab6/singleriscv.v,1609124481,verilog,,C:/Users/Yan Lijun/Desktop/lab6/singleriscv_fpga.v,,aludec;controller;datapath;maindec;singleriscv,,,,,,,,
+C:/Users/Yan Lijun/Desktop/lab6/singleriscv_fpga.v,1609161706,verilog,,,,singleriscv_fpga,,,,,,,,
